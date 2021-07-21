@@ -1,0 +1,23 @@
+body{
+    background-color: lightgrey;
+   
+}
+form{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+h1{
+    text-align: center;
+    background-color: crimson;
+    border-radius: 40%;
+}
+a{
+    display: flex;
+    justify-content: center;
+    margin-top: 60px ;
+    margin-left: 30px;
+}
+input{
+    border-radius: 50px;
+}
